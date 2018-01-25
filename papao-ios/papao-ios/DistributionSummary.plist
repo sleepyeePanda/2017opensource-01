@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>papao-ios.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+				<key>dateExpires</key>
+				<string>2018. 11. 7.</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ALThreeCircleSpinner.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>ASHorizontalScrollView.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Alamofire.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AlamofireNetworkActivityIndicator.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>BSGridCollectionViewLayout.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>BSImagePicker.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>DateToolsSwift.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>MagicPie.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SwiftyJSON.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>94C2ADB52A860F0A62187823E08D64DF855F453F</string>
+						<key>dateExpires</key>
+						<string>2018. 11. 7.</string>
+						<key>type</key>
+						<string>iOS Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>UIImageViewModeScaleAspect.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>E5KH6XGE5T</string>
+						<key>name</key>
+						<string>Seung won Kim</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>E5KH6XGE5T.com.papaolabs.papao-ios</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>E5KH6XGE5T</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>papao-ios.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>6b6179ea-bb3b-4699-8b3d-233f8f7af768</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.papaolabs.papao-ios</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>E5KH6XGE5T</string>
+				<key>name</key>
+				<string>Seung won Kim</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
